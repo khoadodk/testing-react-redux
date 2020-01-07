@@ -13,7 +13,7 @@ const tempArr = [
   }
 ];
 
-export const App = () => {
+const App = () => {
   return (
     <>
       <div className="App">
