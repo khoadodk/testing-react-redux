@@ -2,7 +2,7 @@ import React from 'react';
 import './styles.scss';
 import Logo from './../../assets/graphics/logo.ico';
 
-const Header = props => {
+const Header = () => {
   return (
     <header data-test="headerComponent">
       <div className="wrap">
